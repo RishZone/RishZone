@@ -6,7 +6,7 @@
 
 <a href="mailto:rishabhc394@gmail.com"><img src="https://img.shields.io/badge/Gmail-rishabhc394@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+918920552758"><img src="https://img.shields.io/badge/Phone-8920552758-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://github.com/RishZone"><img src="https://img.shields.io/badge/GitHub-RishVerse-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RishZone"><img src="https://img.shields.io/badge/GitHub-RishZone-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
