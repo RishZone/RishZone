@@ -28,21 +28,21 @@ I'm a **Driven Full-Stack Developer** with a keen interest in **Artificial Intel
 
 ## 🚀 Key Projects
 
-### 🛣️ Lane Detection System
+### 🛣️ [Lane Detection System](https://github.com/RishZone/Lane-Lines-Detection-Python-OpenCV)
 > **Python · OpenCV · Computer Vision**
 
 Processed video streams to detect road edges and map lanes in real-time using classical CV algorithms for autonomous vehicle guidance applications.
 
 ---
 
-### 🏠 Airbnb Amenity Detection
+### 🏠 [Airbnb Amenity Detection](https://github.com/RishZone/airbnb-amenity-detection-ml)  
 > **Python · Machine Learning . Deeplearning · Detectron2 · Streamlit**
 
 Built a deep learning computer vision system to detect Airbnb property amenities from images. Applied image preprocessing, feature extraction, and object classification. Deployed as an interactive Streamlit web app for real-time amenity prediction.
 
 ---
 
-### 👔 Dry Clean Service Platform
+### 👔 [Dry Clean Service Platform](https://github.com/RishZone/DryCleaningProject)
 > **React · Spring Boot · MySQL · Razorpay**
 
 Full-stack dry cleaning service platform with dynamic cart, pricing engine, CRUD operations, and JWT-based authentication. Integrated Razorpay for secure payments with real-time order status and receipt generation.
