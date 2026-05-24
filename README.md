@@ -61,19 +61,19 @@ I'm a **Driven Full-Stack Developer** with a keen interest in **Artificial Intel
 ## 💼 Work Experience
 
 ### 🖥️ FullStack + AI Developer — SoftSynth Software Solutions
-**Oct 2025 – Present**
+**Feb 2025 – Present**
 - Developed and maintained responsive web pages using **React, JavaScript, Tailwind CSS** and MERN Stack
 - Managed backend data operations with **Java, Spring Boot, Servlets, and MySQL**
 - Integrated **RESTful APIs** to connect frontend with backend following MVC architecture
 
-### 📊 Data Executive — DB Schenker
-**Sep 2024 – Sep 2025**
+### 📊 Data Executive — NeoTangent
+**Sep 2024 – Jan 2025**
 - Built **Power BI and Excel dashboards** to monitor logistics KPIs
 - Analysed supply chain and order flow data to identify operational bottlenecks
 - Automated weekly reporting via **Excel Power Query**, significantly reducing manual effort
 
 ### 🤖 AI/ML Intern — MRG World
-**Jun 2023 – Jul 2023**
+**Jun 2023 – Sep 2023**
 - Built a **Python-based AI chatbot** using NLP and OpenAI GPT
 - Integrated **Twilio, 360dialog, and Meta APIs** with AWS deployment
 - Shipped the solution for a **live client website**
