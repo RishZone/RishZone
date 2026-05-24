@@ -26,6 +26,27 @@ I'm a **Driven Full-Stack Developer** with a keen interest in **Artificial Intel
 
 ---
 
+## 🚀 Key Projects
+
+### 🛣️ Lane Detection System
+> **Python · OpenCV · Computer Vision**
+
+Processed video streams to detect road edges and map lanes in real-time using classical CV algorithms for autonomous vehicle guidance applications.
+
+---
+
+### 🏠 Airbnb Amenity Detection
+> **Python · Machine Learning . Deeplearning · Detectron2 · Streamlit**
+
+Built a deep learning computer vision system to detect Airbnb property amenities from images. Applied image preprocessing, feature extraction, and object classification. Deployed as an interactive Streamlit web app for real-time amenity prediction.
+
+---
+
+### 👔 Dry Clean Service Platform
+> **React · Spring Boot · MySQL · Razorpay**
+
+Full-stack dry cleaning service platform with dynamic cart, pricing engine, CRUD operations, and JWT-based authentication. Integrated Razorpay for secure payments with real-time order status and receipt generation.
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Databases
