@@ -106,7 +106,9 @@ Full-stack dry cleaning service platform with dynamic cart, pricing engine, CRUD
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
 | B.Tech — AI & Machine Learning | The NorthCap University | 2020–2024 | CGPA: 7.10 |
-| Senior Secondary | Kenbridge School, Kota | 2018–2020 | 75% |
+| Senior Secondary Education | Kenbridge School, Kota | 2018–2020 | 75% |
+| Secondary Education | D.A.V public school , Faridabad | 2018–2020 | 70% |
+
 
 ---
 
