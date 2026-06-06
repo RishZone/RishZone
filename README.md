@@ -2,7 +2,7 @@
 
 # Hey, I'm Rishabh 👋
 
-### AI/ML Enthusiast · Full Stack Developer
+### AI/ML Enthusiast · Full Stack Developer . Data Science
 
 <a href="mailto:rishabhc394@gmail.com"><img src="https://img.shields.io/badge/Gmail-rishabhc394@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+918920552758"><img src="https://img.shields.io/badge/Phone-8920552758-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
