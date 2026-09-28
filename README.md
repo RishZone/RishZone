@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Rishabh 👋
 
@@ -27,6 +27,12 @@ I'm a **Driven Full-Stack Developer** with a keen interest in **Artificial Intel
 ---
 
 ## 🚀 Key Projects
+
+🧺 [DhobiG — Smart Laundry Platform](https://github.com/RishZone/DhobiG)
+
+React · TypeScript · FastAPI · PostgreSQL · LangChain · LangGraph · RAG · Agentic AI
+
+Full-stack smart laundry platform with service browsing, dynamic pricing, pickup booking, order management, order tracking, address management, coupons, reviews, and JWT-based authentication. Built an AI Assistant using RAG, vector search, embeddings, LangChain, LangGraph, and LLMs, with an architecture designed for tool-based and agentic AI workflows.
 
 ### 🛣️ [Lane Detection System](https://github.com/RishZone/Lane-Lines-Detection-Python-OpenCV)
 > **Python · OpenCV · Computer Vision**
@@ -70,6 +76,7 @@ Full-stack dry cleaning service platform with dynamic cart, pricing engine, CRUD
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🚀 Frameworks & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -77,21 +84,19 @@ Full-stack dry cleaning service platform with dynamic cart, pricing engine, CRUD
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+
 ---
 
 ## 💼 Work Experience
 
 ### 🖥️ FullStack + AI Developer — SoftSynth Software Solutions
-**Feb 2025 – Present**
+**Feb 2025 – Feb 2026**
 - Developed and maintained responsive web pages using **React, JavaScript, Tailwind CSS** and MERN Stack
 - Managed backend data operations with **Java, Spring Boot, Servlets, and MySQL**
 - Integrated **RESTful APIs** to connect frontend with backend following MVC architecture
 
-### 📊 Data Executive — NeoTangent
-**Sep 2024 – Jan 2025**
-- Built **Power BI and Excel dashboards** to monitor logistics KPIs
-- Analysed supply chain and order flow data to identify operational bottlenecks
-- Automated weekly reporting via **Excel Power Query**, significantly reducing manual effort
+
 
 ### 🤖 AI/ML Intern — MRG World
 **Jun 2023 – Sep 2023**
